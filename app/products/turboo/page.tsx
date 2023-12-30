@@ -30,7 +30,7 @@ const HikvisionProductList: React.FC = () => {
             productImage: '/turbo4.png',
         },
         {
-            productName: 'Turboo R3211 Swing Gate Biometric Security System Brushless Servo Motor 100w',
+            productName: 'Turboo R3211 Swing Gate Biometric Security System Brushless Servo Motor',
             productType: 'Barrier Gate',
             productImage: '/turbo1.png',
         },
