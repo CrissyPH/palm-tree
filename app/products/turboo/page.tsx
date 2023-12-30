@@ -12,27 +12,27 @@ const HikvisionProductList: React.FC = () => {
         {
             productName: 'Office Security Entrance Swing Gate Turnstile Barrier Gate RFID Card Reader',
             productType: 'Barrier Gate',
-            productImage: '/turbo1.png',
+            productImage: '/turbo1.PNG',
         },
         {
             productName: 'SUS Biometric High Speed Gate Turnstile Security QR Code ReaderAC 100-240V Servo Motor',
             productType: 'Barrier Gate',
-            productImage: '/turbo1.png',
+            productImage: '/turbo1.PNG',
         },
         {
             productName: 'Compact Design Speed Gate Turnstile Office Building AC100-240V Pedestrian Swing Gate',
             productType: 'Barrier Gate',
-            productImage: '/turbo3.png',
+            productImage: '/turbo3.PNG',
         },
         {
             productName: 'Fast Access Control Speed Gate Turnstile Swing Barrier Gate With LED Strip Bar',
             productType: 'Barrier Gate',
-            productImage: '/turbo4.png',
+            productImage: '/turbo4.PNG',
         },
         {
             productName: 'Turboo R3211 Swing Gate Biometric Security System Brushless Servo Motor',
             productType: 'Barrier Gate',
-            productImage: '/turbo1.png',
+            productImage: '/turbo1.PNG',
         },
 
     ];
